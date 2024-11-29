@@ -1,38 +1,27 @@
-# angular-investment-calculator
-A hands-on Angular project for building an interactive investment calculator. Demonstrates Angular concepts such as components, two-way data binding, services, signals, and dynamic table rendering.
-# Angular Investment Calculator
+# EssentialsPractice
 
-An interactive web application for calculating investment growth over a defined period, built as a learning exercise in Angular. This project showcases essential Angular features and concepts through a practical hands-on approach.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
 
----
+## Development server
 
-## **Features**
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-- **Header Component**: Displays the title and a logo.
-- **User Input Component**: Collects investment details using a dynamic form with two-way data binding.
-- **Investment Results Component**: Dynamically generates and displays investment results in a table.
-- **Services**: Encapsulates logic for data handling and calculation.
-- **Signals**: Demonstrates Angular’s modern state management system.
+## Code scaffolding
 
----
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## **Technologies Used**
+## Build
 
-- **Framework**: Angular
-- **Language**: TypeScript
----
-## **Key Angular Concepts Demonstrated**
-**Components**: Building modular, reusable UI elements.
-**Two-Way Data** Binding: Managing form inputs and synchronizing data.
-**Services**: Encapsulating and sharing business logic.
-**Directives**: Using *ngIf and *ngFor for dynamic rendering.
-**Pipes**: Formatting data (e.g., currency pipe for financial values).
-**Signals** (Optional): Angular’s modern reactive state management feature.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
----
+## Running unit tests
 
-## **How to Run the Project**
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/mahmoud-abdalmaksoud/angular-investment-calculator.git
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
