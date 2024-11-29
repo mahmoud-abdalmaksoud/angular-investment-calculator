@@ -35,5 +35,4 @@ An interactive web application for calculating investment growth over a defined 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mahmoud-abdalmaksoud
-/angular-investment-calculator.git
+   git clone https://github.com/mahmoud-abdalmaksoud/angular-investment-calculator.git
